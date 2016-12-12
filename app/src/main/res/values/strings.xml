@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">personalDemo</string>
+    <string name="app_name">ScrollTest</string>
+    <string name="title_activity_dialog_fragment">DialogFragmentActivity</string>
+    <string name="title_activity_test">TestActivity</string>
 </resources>
